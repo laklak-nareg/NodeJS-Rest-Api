@@ -64,7 +64,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Nareg Laklakian]
+- Author - Nareg Laklakian || (https://github.com/laklak-nareg)
 
 ## License
 
